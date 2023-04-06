@@ -9,7 +9,9 @@ Atividade:
 * * c) Utilizar um comentário para afirmar que um programa executa um cálculo de exemplo de folha de pagamento.
 
 IFPR - Campus Cascavel 
+
 Aluno: Gabriel Costa de Moraes
+
 Disciplina: Programação orientada a Objetos Professor: Nelson Bellincanta
 
 ```
