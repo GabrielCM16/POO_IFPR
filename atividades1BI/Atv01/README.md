@@ -7,7 +7,7 @@ IFPR - Campus Cascavel
 Aluno: Gabriel Costa de Moraes Disciplina: Programação orientada a Objetos
 Professor: Nelson Bellincanta
 
-´´´
+```
 //importação da classe Scanner do pacote java.util
 import java.util.Scanner; 
 // importação da classe IOException para tratar exceções
@@ -36,5 +36,4 @@ public class Main {// Declaração da classe Main
         System.out.println("A soma dos argumentos é : " + soma);
 	}// fim do método main
 }//fim da classe Main
-
-´´´
+```
