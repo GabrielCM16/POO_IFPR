@@ -17,7 +17,7 @@ Turma: 3° INF 2023
 
 Disciplina: Programação orientada a Objetos Professor: Nelson Bellincanta
 
-´´´
+```
 public class BalancoTrimestral {// Declaração da classe Main
     // Início da classe Main 
     // Declaracao do método main que inicia a execução do programa  
@@ -39,4 +39,4 @@ public class BalancoTrimestral {// Declaração da classe Main
 }
 //fim da classe Main
 
-´´´
+``` 
