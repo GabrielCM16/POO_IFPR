@@ -14,7 +14,7 @@ Disciplina: Programação orientada a Objetos Professor: Nelson Bellincanta
 //importando o JOptionPane
 import javax.swing.JOptionPane;
 
-public class BalancoTrimestral {// Declaração da classe Main
+public class CalculaMeida {// Declaração da classe Main
     // Início da classe Main 
     // Declaracao do método main que inicia a execução do programa  
 	public static void main(String[] args){
