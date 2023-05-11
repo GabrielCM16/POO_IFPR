@@ -117,10 +117,6 @@ public class Atv08
 
                         }
 
-                        System.out.println("===========================================\n");
-                        System.out.println("infelizmente não há assentos disponiveis");
-                        System.out.println("===========================================\n");
-
                     }
 
                     System.out.println("===========================================\n");
@@ -179,5 +175,6 @@ public class Atv08
 
     
 }
+
 
 ```
